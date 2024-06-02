@@ -11,7 +11,6 @@
 ### **- Currículo e carta de apresentação**
 ### **- Tipos Utilitários**
 ### **- Linkedin**
-### **- Soft skills**
 
 # O que eu já sei sobre os assuntos que serão abordados nesse módulo?
 
