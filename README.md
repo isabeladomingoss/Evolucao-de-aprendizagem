@@ -11,12 +11,11 @@
 ### **- Currículo e carta de apresentação**
 ### **- Tipos Utilitários**
 ### **- Linkedin**
+### **- Métodos de Arrays**
 
 # O que eu já sei sobre os assuntos que serão abordados nesse módulo?
 
-### **Soft skills** - são habilidades comportamentais tão importantes quanto as habilidades técnicas.
 ### **LinkedIn** - é uma "espécie de rede social" para o trabalho, onde você faz networking e mostra seu "portfólio" as empresas.
-### **Ética em tecnologia** - conjunto de ações para garantir que a tecnologia seja justa e segura.
 ### **Gestão de tempo** - como usar tempo hábil de forma assertiva.
 ### **Tipos de dados** - conhecendo cada tipo de dados, e aprendendo as formas de manipula-lo.
 ### **Métodos de strings** - métodos de como manipular textos.
@@ -31,7 +30,6 @@
 
 # Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
 ### Aprendi a usar o linkedin corretamente, acrescentando informações sobre mim
-### Entendi que ética em tecnologia é pensar sobre assuntos relevantes. E assuntos polêmicos.
 ### Aprendi a importância de me planejar e aderi a alguns programas que me ajudam nessa.
 ### Aprendi como usar o Git e colocaborar com projetos de outras pessoas.
 ### Aprendi alguns métodos básicos de strings, como "somar"(concatenar) um texto.
